@@ -29,7 +29,7 @@ mediaType:  2,
 mediaUrl: `${url}`,
 title: `AUDIO SEDANG DIKIRIM...`,
 body: wm,
-sourceUrl: 'http://wa.me/6283863727733', thumbnail: await ( await conn.getFile(thumbnail)).data
+sourceUrl: 'http://wa.me/6281333154367', thumbnail: await ( await conn.getFile(thumbnail)).data
   }
  } 
 })
